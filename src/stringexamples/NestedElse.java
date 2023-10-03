@@ -14,8 +14,10 @@ public class NestedElse {
 		String LastName="Patil";
 		System.out.println(name);
 		System.out.println(middleName);
-		System.out.println(name);
 		System.out.println(LastName);
+		System.out.println("Last name is:"+LastName);
+		System.out.println("changes in line 18&19");
+
 
 
 
