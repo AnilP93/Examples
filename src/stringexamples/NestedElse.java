@@ -14,7 +14,9 @@ public class NestedElse {
 		String LastName="Patil";
 		System.out.println(name);
 		System.out.println(middleName);
+		System.out.println(name);
 		System.out.println(LastName);
+
 
 
 	}
