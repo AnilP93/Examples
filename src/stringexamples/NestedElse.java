@@ -16,9 +16,15 @@ public class NestedElse {
 		System.out.println(middleName);
 		System.out.println(LastName);
 		System.out.println("Last name is:"+LastName);
+<<<<<<< HEAD
+		System.out.println("changes in line 18&19");
+		System.out.println("Branch B changes");
+
+=======
 		System.out.println("---changes in line 18&19---");
 		System.out.println("Branch A scenario 2");
 		
+>>>>>>> f828a67995ecf7f30507db059b3ec960fdb05e61
 
 
 
